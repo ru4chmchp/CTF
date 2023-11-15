@@ -1,0 +1,2 @@
+connect with netcat: nc jupiter.challenges.picoctf.org 4427 and use grep 
+Use command : nc jupiter.challenges.picoctf.org 4427 | grep picoCTF

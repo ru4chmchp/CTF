@@ -1,0 +1,1 @@
+copy 42 paste into decimal kt.gy you will receive flag in line binary and remove double zero in first line  and don't remember picoCTF{answer?}

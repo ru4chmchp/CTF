@@ -1,0 +1,1 @@
+cat file leve1.py you will se pwd is 691d

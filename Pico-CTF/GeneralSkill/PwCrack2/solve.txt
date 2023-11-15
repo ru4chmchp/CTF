@@ -1,0 +1,1 @@
+cat file leve2.py you will se pwd is is x33 x39 x63 x65 and paste it into hexadecimal in kt.gy you will receive flag from them

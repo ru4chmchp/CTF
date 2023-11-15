@@ -1,0 +1,1 @@
+run command : unzip Addadshashanammu.zip to unzip this file and cd to last file you will find out fang-of-haynekhtnamet and run it with command : ./fang-ofhaynekhtnamet to get a flag . * because this file can run so we will not use chmod +x fang-of-haynekhtmet provide permission to run this file.

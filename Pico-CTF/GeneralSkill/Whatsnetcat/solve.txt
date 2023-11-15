@@ -1,0 +1,1 @@
+run command : nc jupiter.challenges.picoctf.org 41120 to get flag and don't remember picoCTF{answer?}

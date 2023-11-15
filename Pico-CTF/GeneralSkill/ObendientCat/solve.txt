@@ -1,0 +1,2 @@
+only cat file flag and the answer will appear
+Command  : cat flag

@@ -1,0 +1,1 @@
+nc mercury.picoctf.net 22342 and copy that to kt.gy in website and paste into decimal, we will receive a flag

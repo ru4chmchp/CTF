@@ -1,0 +1,1 @@
+run Command : chmod +x ltdis.sh && ./ltdis.sh static, you will get file static.ltdis.strings.txt and file static.ltdis.x86_64.txt and use grep to find out flag with command: grep -i pico static.ltdis.strings.txt and received a flag form this command

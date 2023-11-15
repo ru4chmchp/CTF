@@ -1,0 +1,1 @@
+run file : nano fixme1.py and add = in to line 22

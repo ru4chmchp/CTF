@@ -1,0 +1,1 @@
+edit file : nano level5.py and edit it as level5.py of me or use Command : bvi level5.hash.bin to read md5 hash code and paste it in crackstation.net and remove white space. solve : 123650DD0560587918B3D771CF0C0171 after paste it we will receivepassword

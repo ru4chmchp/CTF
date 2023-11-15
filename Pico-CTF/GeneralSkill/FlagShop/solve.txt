@@ -1,0 +1,1 @@
+vi tong duoc khai bao la int nen luc t mua thi nhap vao mot so de no qua gioi han int thi se xay ra tran so thi t se nhan duoc mot gia tri am va no se doi thanh tien 

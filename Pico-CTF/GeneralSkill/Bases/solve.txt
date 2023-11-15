@@ -1,0 +1,1 @@
+copy that and paste into base 64 in kt.gy , you receive answer in ascii line , copy that paste into picoCTF{answer}

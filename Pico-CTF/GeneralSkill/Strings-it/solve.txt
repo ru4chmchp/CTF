@@ -1,0 +1,1 @@
+run command : Strings strings | grep picoCTF; grep picoCTF to find out string picoCTF in file strings

@@ -1,0 +1,1 @@
+copy 0x3D in hexadecimal paste kt.gy you will receive flag and don't remember picoCTF{answer?}

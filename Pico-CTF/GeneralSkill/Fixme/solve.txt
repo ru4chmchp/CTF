@@ -1,0 +1,1 @@
+run file : nano fixme1.py and delete indentation in print after that run this file and get flag

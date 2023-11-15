@@ -1,0 +1,3 @@
+the answer is picoCTF{p}
+
+copy 0x70 and enter kt.gy in browser then paste into hexadecimal to find out flag in ascii

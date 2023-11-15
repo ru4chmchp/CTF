@@ -1,0 +1,1 @@
+use find big-zip-files -type f -exec grep -H 'picoCTF' {} +

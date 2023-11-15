@@ -1,0 +1,1 @@
+copy lyrics and paste into https://codewithrockstar.com/online you will receive a string decimal and paste to kt.gy to receive flag 

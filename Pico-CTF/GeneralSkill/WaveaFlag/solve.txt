@@ -1,0 +1,1 @@
+Run command : chmod +x warm && ./warm and then run ./warm -h to get the flag

@@ -1,0 +1,2 @@
+Run script and paste pwd from pw.txt into that;
+Command : python3 ende.py -d flag.txt.en

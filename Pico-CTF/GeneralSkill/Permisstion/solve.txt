@@ -1,0 +1,1 @@
+use command when you enter ssh and cd to / folder and use command: sudo vi after enter vi, we will use command : (Shift)+:+cat /challenge/.flag.txt
